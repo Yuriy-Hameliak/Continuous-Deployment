@@ -12,7 +12,7 @@ env:
   AZURE_LOCATION: WestEurope
 
   ###############################################
-  ### Replace <username> with GitHub username  ###
+  ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: yurora-ttt-app
 

@@ -9,7 +9,7 @@ env:
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
 
-  AZURE_LOCATION: centralus
+  AZURE_LOCATION: PolandCentral
 
   ###############################################
   ### Replace <username> with GitHub username ###

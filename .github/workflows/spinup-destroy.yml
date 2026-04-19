@@ -14,7 +14,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username  ###
   ###############################################
-  AZURE_WEBAPP_NAME: yurora-ttt-app-v1
+  AZURE_WEBAPP_NAME: yurora-ttt-app
 
 jobs:
   setup-up-azure-resources:
